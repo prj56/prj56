@@ -2,7 +2,7 @@
 ![PRJ56 on GitHub — Build · Learn · Improve · Share](./PRJ56-Banner-Github.png)
 
 <p align="center">
-  <strong>Programming · Development · Technology</strong><br>
+  <strong>Build · Iterate · Ship</strong><br>
   Exploring ideas, building projects, and creating solutions through code.
 </p>
 
@@ -66,5 +66,5 @@ Projects may explore different programming languages, technologies, and developm
 <p align="center">
   <strong>PRJ56</strong><br>
   <sub>Programming · Development · Technology</sub><br><br>
-  <sub>Build. Learn. Improve. Share.</sub>
+  <sub>Build · Iterate · Ship</sub>
 </p>
