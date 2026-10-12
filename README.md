@@ -1,5 +1,5 @@
 
-![PRJ56 on GitHub — Build · Learn · Improve · Share](./github-banner.png)
+![PRJ56 on GitHub — Build · Learn · Improve · Share](./PRJ56-Banner-Github.png)
 
 <p align="center">
   <strong>Software Development &amp; Web Engineering</strong><br>
