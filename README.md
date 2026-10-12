@@ -2,44 +2,69 @@
 ![PRJ56 on GitHub — Build · Learn · Improve · Share](./PRJ56-Banner-Github.png)
 
 <p align="center">
-  <strong>Software Development &amp; Web Engineering</strong><br>
-  Building practical software and modern web experiences.
+  <strong>Programming · Development · Technology</strong><br>
+  Exploring ideas, building projects, and creating solutions through code.
 </p>
 
 ---
 
 ## About PRJ56
 
-**PRJ56** is an independent development brand focused on software engineering and web development. The goal is simple: create useful, well-structured projects while continuously learning and improving.
+**PRJ56** is an independent programming and development brand driven by curiosity, creativity, and a passion for technology.
+
+Our work explores different areas of programming, from developing applications and building websites to creating useful tools, experimenting with technologies, and solving technical challenges.
+
+We believe programming is about more than writing code. It's about understanding problems, exploring possibilities, and turning ideas into functional solutions.
+
+Whether working on a small experiment or a more ambitious project, our focus remains on learning, improving, and producing meaningful work.
 
 ## What We Do
 
-- **Software development** — Building applications, tools, and practical solutions.
-- **Web development** — Creating responsive websites and interactive web experiences.
-- **Technical exploration** — Experimenting with new technologies and better ways to build.
+Our interests span multiple areas of programming and technology.
+
+- **Programming & Development** — Writing code, developing applications, and creating solutions using different programming languages.
+- **Web Development** — Building websites, interactive interfaces, and web-based applications.
+- **Tools & Utilities** — Developing scripts, automation tools, and practical utilities that simplify tasks and solve problems.
+- **Technical Exploration** — Experimenting with technologies, programming concepts, and different approaches to development.
+- **Open Source & Collaboration** — Exploring opportunities to share projects, exchange ideas, and contribute to the developer community.
 
 ## Technologies
 
+We work with a range of programming languages and technologies, continuously expanding our knowledge and capabilities.
+
 | Area | Technologies |
 | --- | --- |
-| Programming | Python, JavaScript, C#, Lua |
-| Web | HTML, CSS, JavaScript |
-| Currently learning | TypeScript |
+| Programming Languages | Python, JavaScript, C#, Lua |
+| Web Technologies | HTML, CSS, JavaScript |
+| Currently Exploring | TypeScript |
 
-## Our Approach
+Our technology choices depend on the requirements and goals of each project. We value choosing practical tools and continuously developing our technical understanding.
 
-**Build. Learn. Improve. Share.**
+## Our Philosophy
 
-We value clear code, thoughtful design, and steady iteration. Each project is an opportunity to solve a problem, develop new skills, and make something better.
+### Build. Learn. Improve. Share.
+
+These four principles guide the way we approach programming and development.
+
+- **Build** — Turn ideas into working projects and practical solutions.
+- **Learn** — Explore new technologies, concepts, and programming techniques.
+- **Improve** — Refine existing work, strengthen technical skills, and develop better solutions.
+- **Share** — Make projects, knowledge, and experiences accessible to others.
+
+We believe development is a continuous process of experimentation, problem-solving, and improvement.
 
 ## Projects & Repositories
 
-Explore our public work, experiments, and upcoming projects on GitHub.
+Our GitHub serves as a space for programming projects, technical experiments, utilities, and ongoing development work.
+
+Projects may explore different programming languages, technologies, and development approaches.
 
 **[Explore PRJ56 repositories →](https://github.com/prj56?tab=repositories)**
 
 ---
 
 <p align="center">
-  <sub>PRJ56 · Software Development &amp; Web Engineering</sub>
+  <strong>PRJ56</strong><br>
+  <sub>Programming · Development · Technology</sub><br><br>
+  <sub>Build. Learn. Improve. Share.</sub>
 </p>
